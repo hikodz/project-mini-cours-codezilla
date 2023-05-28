@@ -105,6 +105,3 @@ if 1 <= guess <= 6:
         print('YOU LOST!')      
 else:
     print('Please Enter a number between 1 and 6')
-
-
-
