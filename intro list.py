@@ -26,13 +26,3 @@ else:
     print('not an employee')
 if bouns != None:
     print(f'employee id: {id_user} gets a bonus of {bouns:,.2f}EGP')    
-
-
-
-
-
-
-
-
-
-
