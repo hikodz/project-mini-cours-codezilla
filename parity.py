@@ -1,28 +1,28 @@
-#number_client = float(input("enter a number: "))
-#divide_number = float(input('enter the number yo divide by: '))
-#result = number_client / divide_number
-#space = "-"*25
-#print(f'{space}\nthe division result is {result: .3f}')
-#if number_client % divide_number == 0:
-    #print(f'{number_client} is divisible by {divide_number}')
-#else:
-    #print(f'{number_client} is not divisible by {divide_number}')
+number_client = float(input("enter a number: "))
+divide_number = float(input('enter the number yo divide by: '))
+result = number_client / divide_number
+space = "-"*25
+print(f'{space}\nthe division result is {result: .3f}')
+if number_client % divide_number == 0:
+    print(f'{number_client} is divisible by {divide_number}')
+else:
+    print(f'{number_client} is not divisible by {divide_number}')
 
-#? part 2 
-#intro = 'please, enter the number you want to compare'
-#space = '-' * 15
-#print(f'{intro}\n{space}\n')
-#first_number = float(input('enter the first number: '))    
-#second_number = float(input('enter the second number: '))
-#third_number = float(input('enter the third number: '))  
-#print(space)
+? part 2 
+intro = 'please, enter the number you want to compare'
+space = '-' * 15
+print(f'{intro}\n{space}\n')
+first_number = float(input('enter the first number: '))    
+second_number = float(input('enter the second number: '))
+third_number = float(input('enter the third number: '))  
+print(space)
 
-#if first_number > second_number and first_number > third_number:
-#    print(f'{first_number} is the greatest number')
-#elif second_number > first_number and second_number > third_number:
-#    print(f'{second_number} is the greatest number')
-#else:
-#    print(f'{third_number} is the greatest number')    
+if first_number > second_number and first_number > third_number:
+    print(f'{first_number} is the greatest number')
+elif second_number > first_number and second_number > third_number:
+    print(f'{second_number} is the greatest number')
+else:
+    print(f'{third_number} is the greatest number')    
 
 # ? part 3
 
