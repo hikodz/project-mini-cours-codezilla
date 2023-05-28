@@ -22,5 +22,3 @@
 numbers_lis= [5, 4, -1, 8, 0, -6, 'ridha']
 numbers_lis.reverse()
 print(numbers_lis)
-
-
