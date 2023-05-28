@@ -43,8 +43,3 @@ if first_items + second_items + third_items <= amount_of_money:
     print(f"items have been purchased successfuly\nthe remaining amount is {remaining_amount_client_card}$")
 else:
     print(f"sorry, you dont't have enough balance\nyou need to add extra {money_extra: .2f}$")    
-
-
-
-
-
