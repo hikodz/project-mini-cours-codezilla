@@ -141,10 +141,3 @@ match enter_coun.title():
         print(f'The employees in {enter_coun} are: {convert_list_d} and {Dubai[-1]}')
     case _:
         print('Not found')        
-
-
-
-
-
-
-
