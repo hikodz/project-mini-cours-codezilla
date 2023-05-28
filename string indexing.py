@@ -28,9 +28,3 @@ print(f'Your id is: {id_user}')
 find_alt = email_client.index('@')
 edit_email_user = f'Your email is: {email_client[:find_alt]}@{cmopany_name.lower()}.com'
 print(edit_email_user)
-
-
-
-
-
-
