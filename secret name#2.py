@@ -1,12 +1,12 @@
-#?
+
 #? lesson 7 - secret name
 
-#qs_client = input('enter the name: ').lower()
+qs_client = input('enter the name: ').lower()
 
-#if qs_client.endswith('d'):
- #   print('you winnnn')
-#else:
-   # print('sorry your lost try again')    
+if qs_client.endswith('d'):
+    print('you winnnn')
+else:
+    print('sorry your lost try again')    
 
 #? lesson 7 - secret name part 2
 
