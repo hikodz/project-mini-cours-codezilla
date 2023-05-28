@@ -98,17 +98,3 @@ else:
         print("Error: Invalid score entered for Sport. Please enter a score between 0 and 100.")
     if not 0 <= score_islamic <= 100:
         print("Error: Invalid score entered for Islamic. Please enter a score between 0 and 100.")
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
